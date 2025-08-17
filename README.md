@@ -1,10 +1,6 @@
 ## About
-- Hello, I'm Anton Parfenchyk, data and privacy analyst.
-- The topics of my interests are data-driven decision-making and predictive jurisprudence.
-- I have skills in Python, SQL, Statistics, and Data Protection.
-- I’m looking forward to collaborate on projects related to these topics.
-### My Certificates
-[![Data Scientist Professional Certificate](/certificates/data_scientist_professional_badge.png)](https://www.datacamp.com/certificate/DS0024138610257)
-[![Data Analyst Professional Certificate](/certificates/data_analyst_professional_badge.png)](https://www.datacamp.com/certificate/DA0015483939534)
-[![Data Engineer Associate Certificate](/certificates/data_engineer_associate_badge.png)](https://www.datacamp.com/certificate/DEA0014922236611)
-[![SQL Associate Certificate](/certificates/sql_associate_badge.png)](https://www.datacamp.com/certificate/SQA0015674360651)
+I’m a developer and data professional with a strong legal foundation. My academic background (PhD in Law, MPA) focused on Data Protection and Digital Government, giving me a unique perspective on governance, compliance, and privacy in data-driven systems.
+
+Today, I work across the data stack: designing and engineering pipelines, analyzing data with Python, and developing interactive BI dashboards using JavaScript, Vue (with Pinia & Vite), DevExtreme, and Highcharts. I have experience with a range of SQL databases including PostgreSQL, SQLite, DuckDB, and ClickHouse.
+
+I’m passionate about leveraging data to drive insights and build intuitive interfaces, especially in domains related to data analytics, and data engineering.
